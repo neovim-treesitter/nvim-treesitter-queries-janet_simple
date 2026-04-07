@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "lang": "janet_simple",
   "url": "https://github.com/sogaiu/tree-sitter-janet-simple",
   "semver": false,
-  "parser_version": "d183186995204314700be3e9e0a48053ea16b350"
+  "parser_version": "d183186995204314700be3e9e0a48053ea16b350",
+  "lang": "janet_simple"
 }
